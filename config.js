@@ -1,19 +1,16 @@
 const CONFIG = {
-    introTitle: 'Babe à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    introTitle: 'hiiii Minh Nhựt',
+    introDesc: `hôm nay là ngày thứ 3 check luật hấp dẫn, nói iu bình thường thì chán quá phải hem?`,
+    btnIntro: 'đún z',
+    title: 'MinhNhut siêu cấp đẹp trai',
+    desc: 'cho hỏi bạn đã fall in love với PhuongQuyen chưa?',
+    btnYes: 'i fell in love in firstday🥰',
+    btnNo: 'nopeeeee🙅‍♂️',
+    question:'Sao giữa rất nhiều người PhuongQuyen lại tin tưởng MinhNhut thế nhờ? Mong là sự tin tưởng này đặt đúng chỗ :">',
+    btnReply: 'Gửi cho PhuongQuyen cute',
+    reply: 'Chắc là bởi vì MinhNhut đẹp trai đó ^^ Giỡn thui chứ không có lý do nào cả hêhê',
+    mess: 'dza iu MinhNhut rất nhiềuuuuu',
+    messDesc: 'Hẹn 10 tô bún bò ở Sài Gòn khi tình hình trở nên ổn hơn nha ^^ nhớ trả mình ly trà sữa nữa ó',
+    btnAccept: 'Okeee lunnnnnnn',
+    messLink: 'http://fb.com' //https://m.me/chubs9611
 }
